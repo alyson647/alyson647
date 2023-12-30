@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+😄 I'm a third year student pursuing a Computer Science Specialist at the University of Toronto!
+
+
